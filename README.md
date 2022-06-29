@@ -17,6 +17,3 @@ for their purchase amount.
 Submissions are scored on the root mean squared error (RMSE).RMSE is very common and is a suitable 
 general-purpose error metric. Compared to the Mean Absolute Error, RMSE punishes large 
 errors
-
-Public leaderboard is based on 30% of the test dataset, while 70% of the dataset is used for Private Leaderboard.
-The final results would be declared only on Private Leaderboard
